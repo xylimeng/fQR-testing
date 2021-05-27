@@ -1,3 +1,5 @@
+ # fQR: Hypothesis testing in function quantile regression (scalar-on-function)   
+
     source('source_fQR.R')
 
     ### examples to visualize simulated data ------
