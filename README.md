@@ -91,7 +91,7 @@ beta.CRQ = ret$x.fpca$efunctions %*% b.CRQ
 
 # Reference
 
-[1] Li, M., Wang, K., Maity, A. and Staicu, A.M. (2021). Inference in Functional Linear Quantile Regression. [arXiv]
+[1] Li, M., Wang, K., Maity, A. and Staicu, A.M. (2022). [Inference in Functional Linear Quantile Regression](https://doi.org/10.1016/j.jmva.2022.104985). *Journal of Multivariate Analysis*, 190, 104985.
 
 [2] The bike data is recorded by the Capital Bikeshare System (CBS), which is available at http://capitalbikeshare.com/system-data.
 
