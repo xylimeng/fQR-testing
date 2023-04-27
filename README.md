@@ -1,6 +1,6 @@
  # fQR: Hypothesis testing in function quantile regression (scalar-on-function)   
 
- The following R code demonstrates how to implement the method proposed in [1]. 
+ The following R code demonstrates how to implement the method proposed in Li et al. (2022) [1]. 
  
  ### Simulated data 
  
